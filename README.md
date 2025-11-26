@@ -1,11 +1,13 @@
 # Slot Machine
 ## Online Casino Game
 
-![Slot Machine](https://raw.githubusercontent.com/1stake/assets/b3e211525769c4a704ec775708fff66c70dc07f9/slot-machine-online-casino-game-plugin.webp)
+[![Slot Machine Online Casino Game](https://raw.githubusercontent.com/1stake/assets/b3e211525769c4a704ec775708fff66c70dc07f9/slot-machine-online-casino-game-plugin.webp)](https://1stake.github.io/slot-machine-online-casino-game/)
 
 ### 🎰 Overview
 An HTML5 / JavaScript slot machine game that lets users spin and win like in a real **online casino**, but without real money. 
 Embed it easily into any website with zero server dependencies.
+
+➡ [PLAY NOW](https://1stake.github.io/slot-machine-online-casino-game/)
 
 ### ✨ Key Features
 - 🧩 5 Reels & 20 Paylines
@@ -110,4 +112,8 @@ No real wagers, no cash-out, no gambling functionality.
 ### 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-Enjoy spinning! 🎰
+### 🧩 Professional iGaming Software
+Looking for a production‑ready **iGaming solution** with access to many quality games?
+Explore the [1Stake Online Casino Platform](https://1stake.app).
+
+Deliver modern casino experiences with scalable architecture, robust game integrations, and fast deployment.
