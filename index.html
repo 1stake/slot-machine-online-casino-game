@@ -11,8 +11,75 @@
   }
   </script>
   <script src="assets/js/main.js"></script>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <style>
+    body {
+      width: 100vw;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      background-color: #05020f;
+    }
+    #slot-machine {
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .game-toolbar {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      padding: 0.35rem 1.5rem;
+      background: linear-gradient(90deg, #3f0a80, #6b13b9 60%, #9d36f6);
+      color: #fff;
+      font-family: "GSRoboto", Arial, sans-serif;
+      font-size: 0.9rem;
+      letter-spacing: 0.02em;
+    }
+    .game-toolbar__links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .game-toolbar a {
+      color: #e9d3ff;
+      text-decoration: none;
+    }
+    .game-toolbar a:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .game-toolbar {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+  </style>
 </head>
-<body style="width: 100vw; height: 100vh; margin: 0; padding: 0;">
+<body>
+  <div class="game-toolbar">
+    <span>A neon-styled immersive online casino game built by <a href="https://1stake.app" target="_blank">1Stake iGaming Platform Provider</a></span>
+    <div class="game-toolbar__links">
+      <a class="github-button"
+        href="https://github.com/1stake/slot-machine-online-casino-game"
+        aria-label="Star Slot Machine on GitHub"
+        data-color-scheme="light"
+        data-show-count="true">Star</a>
+
+      <a class="github-button"
+        href="https://github.com/1stake"
+        aria-label="Follow"
+        data-color-scheme="light"
+        data-show-count="true">Follow</a>
+    </div>
+  </div>
   <div id="slot-machine"></div>
 </body>
 </html>
