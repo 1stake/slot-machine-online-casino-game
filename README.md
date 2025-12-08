@@ -114,6 +114,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### 🧩 Professional iGaming Software
 Looking for a production‑ready **iGaming solution** with access to many quality games?
-Explore the [1Stake Online Casino Platform](https://1stake.app).
+Explore the [1Stake Online Casino Platform](https://1stake.app/?utm_source=github&utm_medium=referral&utm_campaign=slot-machine-js-readme).
 
 Deliver modern casino experiences with scalable architecture, robust game integrations, and fast deployment.
